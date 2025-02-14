@@ -18,9 +18,7 @@ Declarar correctamente el tipo de dato en una variable es fundamental porque:
    3. **Mejora la claridad del código**: Facilita la lectura y mantenimiento del programa.  
 
 
-## Parte 3: Uso de Operadores Lógicos en C#
-
-
+#️⃣#️⃣#️⃣Uso de Operadores Lógicos en C#
 ```csharp
 using System;
 
