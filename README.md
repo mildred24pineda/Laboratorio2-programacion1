@@ -2,20 +2,21 @@
 
 # Operadores Lógicos y Tipos de Datos en C#
 
-
 #️⃣#️⃣#️⃣¿Para qué crees que se usan los operadores lógicos en programación?
 Los operadores lógicos en programación se usan para evaluar condiciones y tomar decisiones en el código. Permiten combinar expresiones booleanas y controlar el flujo del programa en estructuras como `if`, `while` y `for`.  
 
 Ejemplo de operadores lógicos en C#:
 - `&&` (AND) → Devuelve `true` si ambas condiciones son verdaderas.  
 - `||` (OR) → Devuelve `true` si al menos una condición es verdadera.  
-- `!` (NOT) → Invierte el valor de una condición booleana.  
+- `!` (NOT) → Invierte el valor de una condición booleana.
+  
 
 #️⃣#️⃣#️⃣ ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
 Declarar correctamente el tipo de dato en una variable es fundamental porque:  
    1. **Optimiza el uso de memoria**: Cada tipo de dato ocupa un espacio específico en memoria, por lo que elegir el adecuado evita desperdicio de recursos.  
    2. **Evita errores de tipo**: Si no se usa el tipo correcto, pueden ocurrir errores en cálculos o conversiones inesperadas.  
    3. **Mejora la claridad del código**: Facilita la lectura y mantenimiento del programa.  
+
 
 
 #️⃣#️⃣#️⃣Uso de Operadores Lógicos en C#
